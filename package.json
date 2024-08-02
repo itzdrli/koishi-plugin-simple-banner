@@ -14,6 +14,14 @@
     "koishi",
     "plugin"
   ],
+  "author": "Itz_Dr_Li",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/itzdrli/koishi-plugin-simple-banner.git"
+  },
+  "scripts": {
+    "build": "yakumo build"
+  },
   "peerDependencies": {
     "koishi": "^4.17.10",
     "koishi-plugin-skia-canvas": "^0.4.4"
